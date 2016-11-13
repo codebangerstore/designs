@@ -1,0 +1,51 @@
+{
+  "designs": [{
+    "front": "<code>!r",
+    "title": "Original Code Banger",
+    "version": "0.0.1",
+    "products": [
+      "mens shirt",
+      "womens shirt",
+      "unisex hoodie",
+      "mousepad"
+    ],
+    "color_combinations": [{
+      "name": "Classic Homebrew",
+      "background": "black",
+      "foreground": "green"
+    }]
+  },
+  {
+    "front": "{node:!r}",
+    "title": "Node Banger",
+    "version": "0.0.1",
+    "products": [
+      "mens shirt",
+      "womens shirt",
+      "unisex hoodie",
+      "mousepad"
+    ],
+    "color_combinations": [{
+      "name": "Classic Homebrew",
+      "background": "black",
+      "foreground": "green"
+    }]
+  },
+  {
+    "front": "get reset --hard",
+    "title": "Git Reset Hard",
+    "version": "0.0.1",
+    "products": [
+      "mens shirt"
+    ],
+    "color_combinations": [{
+      "name": "Classic Homebrew",
+      "background": "black",
+      "foreground": "green"
+    }]
+  }],
+  "author": "Code Banger Store",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
