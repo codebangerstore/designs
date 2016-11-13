@@ -1,4 +1,4 @@
 # designs
 Code banger design ideas &amp; configurations
 
-Do clone &amp; contribute to future design in the designs.json file.
+If you would like to contribute your own designs, do clone &amp; contribute to future designs in the designs.json file.
